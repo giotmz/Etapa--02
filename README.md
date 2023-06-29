@@ -1,2 +1,3 @@
 # Etapa--02
-sistemanervosocSistema Neuro Central
+Sistema Nervoso
+Sistema Neuro Central
