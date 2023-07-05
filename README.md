@@ -5,9 +5,9 @@ Sistema Neuro Central
 <br>
 Sistema Neuro Periferíco
 <br>
-Doenças Relacionadas
+Doenças Relacionadas - em falta
 <br>
-Mapas Mentais
+Mapas Mentais - em falta
 <br>
 Questionário
 <br>
